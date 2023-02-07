@@ -1,0 +1,9 @@
+1. Make appropriate folders thru root.
+2. Make .ssh folder and add the ssh-key thru root 
+3. Make gpg-keys thru root and import to all users
+4. Make all home folder chmod o-rwx for all users
+5. Install decrypt binary
+6. Create files in .userdat folder
+7. Crontab -e thru root backups in azure
+8. noob1 check
+9. Import the keys in the userdirectory
