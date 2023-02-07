@@ -1,0 +1,24 @@
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level_3
+
+	You are given a ciphertext as below
+	OXN.GWEWBNH@UFW#SIQINJHLEX#JPWILXHBRYY23
+
+	Since, any data about the encryption scheme is not public. So,to 
+	decrypt the ciphertext you have to use known plaintext-ciphertext attack. 
+	Given a pair -->
+
+	Plaintext:- if you reveal your secrets to the wind, you should not blame 
+		the wind for revealing them to the trees.
+
+	Ciphertext:- "IG BSZ YMEOLX MDKI LYXNBRR UQ XMK ERXO, MDK KAIPHA MOU EPFSL 
+		CRP JWCT XHL NBTDAMKQK ZOMV EA HWU LKYZA"
+
+	See you in the next one.

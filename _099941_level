@@ -1,0 +1,41 @@
+
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level_9
+
+	Wow, you have come a long way where in this level there is a vault 
+	in front of you. Lock of the vault can rotate along the vertical 
+	axis(i.e. Reflection) and rotate in the plain itself.
+	
+	Example of the scheme :- 
+	
+	plaintext - statistics two one
+	
+	s	i	c	o
+	t	s	s	o
+	a	t	t	n
+	t	i	w	e
+
+			s			s		      s
+			t			t		      s
+			a			a		      a
+			t           f.1		t         2.2	      t
+		o o n e   i t s i  ===>> i o n e  i t s o ===> i s n e  i t o o
+			w			w		      w
+			t			t		      t
+			s			s		      t
+			c			c		      c
+	
+	Ciphertext - ssat ooti cttw isne
+	Applying the rotation,reflection on rows and writing them cloumn wise we get the ciphertext.
+
+	Now, ciphertext for the vault is - 
+	mbzy culi saaa negq vxrt upso jowd fihk
+
+	Lets meet otherside of the vault. 

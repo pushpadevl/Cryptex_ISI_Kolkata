@@ -1,0 +1,32 @@
+
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level 10
+
+	Playfair cipher is a manual symmetric encryption technique and first 
+	digram substitution cipher.Here, a "Keyword" and 5*5 matrix are used 
+	to encrypt the plaintext.
+	
+        Cipher text for the password of the next level given by
+	"ADTIKAAKCZAOFQGYVBRLQFFGCPTIDWKA"
+
+	HINT: Given a plaintext-ciphertext pair,
+
+	Plaintext : 
+		P.C. MAHALANOBIS WAS AFFILIATED WITH SEVERAL ORGANIZATIONS. HE FOUNDED THE INDIAN 
+		STATISTICAL INSTITUTE IN CALCUTTA. IN THE NEXT TWO DECADES HE FOUNDED THE NATIONAL 
+		SAMPLE SURVEY AND THE CENTRAL STATISTICAL ORGANIZATION TO SERVE AS STATISTICAL 
+		AGENCIES FOR GOVERNMENT DATA COLLECTION.
+	Ciphertext:
+		UOAHLHNHMCISIXLBHERFHSLQFEXBRLBGWEQHMSTFHMCXLQSBLC. 
+		AFDIZCEFGPAFCHFOHMGYLQSCRSBNHSLCRSUPQGCHBNNSPUQL. 
+		CHRLKAFWRYYRVBEFBNEFILFGCPMKFERLKALQSBMHSGHATMGBPTWDWLMKRLKBKAUTHNGY
+                LQSCRSBNMSTFHMCXLQSBLUBCFQWDLBGYLQSCRSBNHNKFCKBFIGIPDSDWUHADLOEMQLOBHYYHKBRSCM.
+
+	Note:- Only alphabets are encrypted.

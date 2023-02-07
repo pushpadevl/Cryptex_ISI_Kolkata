@@ -1,0 +1,18 @@
+
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level 14
+	Password for the next level is encrypted using Vigenere cipher. 
+	Given below is the ciphertext:
+		 "DOZJEMCVRW OSLYBF STKHG UKC EAO RJUVE"
+	
+	Hints lies in the cipher text : 
+		"PMZM BPM SMGEWZL QA I PQVLC UGBPWTWOQKIT KPIZMKBMZ. TMVOBP WN BPM SMGEWZL QA AMDMV." 
+	
+	Also, it is known that above cipher text is encrypted in Shift cipher.

@@ -1,0 +1,20 @@
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+Level_13
+
+	You came to know that John and Kris(two of your rivals) communicates 
+	using columnar transpose cipher. 
+	You got a cipher text 
+	“RQPXD@BWLVCNTFHMJ2ZGSUI3OAYEK1” 
+	by interrupting their communication. By decrypting this you will get 
+	the key for the next level. Now, from a source you came to know that 
+	Alice and Bob uses Diffie Helman Key exchange protocol. They used 
+	prime -100003 and g = 10911. John publicly sends Kris the number 239 
+	and Kris sends John the number 6860.
+	 
+	FInd the password for the next level.

@@ -1,0 +1,19 @@
+
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level 8
+
+	Cipher text of the password for the next level is given by
+		“8k$q5j7cvevfuj1rr2cq6.9bbwj7w$rn”
+
+	Hints: Here, we use 41 character set {.,q,w,e,r,t,y,u,i,o,p,9,0,8,
+	1,a,s,d,f,g,h,2,5,j,k,l,z,x,@,m,n,3,7,c,#,6,v,b,4,$,/} and the order 
+	is as it is given. To encrypt the password we use modular 
+	multiplication about some x modulo 41.
+	Now, find the password.

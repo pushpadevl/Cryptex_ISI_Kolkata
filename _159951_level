@@ -1,0 +1,29 @@
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+Level_15
+
+	Now, lets solve a color puzzle given below
+	
+	F(R)	
+	N(G)	B(Y)	T(G)	A(Y)	O(R)	M(O)	C(B)
+	H(O)	W(R)	A(O)	E(B)	R(Y)	Q(G)	S(Y)
+	X(B)	P(Y)	J(G)	I(R)	A(B)	A(O)	Z(B)
+	K(G)	V(R)	U(O)	G(B)	L(Y)	D(G)	Y(R)
+							I(O)
+
+	Here, 
+	(R)-denotes the alphabets are colored in Red.
+	(Y)-denotes the alphabets are colored in yellow.
+	(O)-denotes the alphabets are colored in orange.
+	(G)-denotes the alphabets are colored in green.
+	(B)-denotes the alphabets are colored in blue.
+
+	Recover the original message i.e. a meaningful sentence, splitting 
+	the given figure of letters into equal 6 pieces such that each color 
+	occurs exactly once in every piece.
+

@@ -1,0 +1,18 @@
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level_2
+
+	A 'FRENCH' mathematician Vigenere was working on his new cryptosystem. You are given a task to steal 
+	his research work. Now, you have broken into his device and found a password protected file named 
+	“New Encryption Scheme”. You also noticed a riddle on his device’s wallpaper, 
+	Find a 9 digit number with the following properties ➖ 
+		(i) Each digit from 1 to 9 is used exactly once. 
+		(ii)The first n	digits are divisible by n. 
+	Now, you crack the password and complete your mission.
+

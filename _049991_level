@@ -1,0 +1,15 @@
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level_4
+	Your password for the next level is cryptology&security(xxxx..) 
+	where xxxx.. is the prime fractorization of the gcd of the number below. 
+	Like if gcd = 374 then (xxxx..) = 21117.
+	
+	[2^13 - 2], [3^13 - 3], [4^13 - 4], [5^13 - 5], [6^13 - 6], [7^13 - 7], [8^13 - 8],
+	[9^13 - 9], [10^13 - 10], [11^13 - 11], [12^13 - 12], [13^13 - 13]

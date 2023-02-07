@@ -1,0 +1,58 @@
+
+
+      TPYRCR  TEXETP    YP      YR  YPTEXET   CRYPTE  TPYRCR  TE      CR
+    ET        EX    RC    EX  PY    PT    PY    PT    PY        ET  RC
+    TP        XETPYR        TP      TEXETP      TE    YRCRYP      YR
+    PY        ET  RC        PY      EX          EX    RC        PY  RY
+      CRYPTE  TP    YP      YR      XE          XE    CRYPTE  TP      TE
+
+
+Level_11	
+	
+	Communication was crucial during the world war for countries involved.
+	Here we have a slightly twisted version of one of those machines. You can
+	use the `cipher15` command to run the encryption machine to see how it encrypts.
+	The machine consisted of : a typewriter/keyboard, a plugboard, four stepping
+	switches. 
+	Note:	a) Use the `cipher15` command to run the machine.
+		c) The encryption machine has four stepping switches S, L, M, R each one 
+			having 25 unrelated permutations.
+		d) The S stepping switch has 25 permutations of six characters, whereas 
+			the L, M, R switches each have 25 permutations of 20 characters.
+		e) For eg. say S with 2 permutation of 6 characters can be viewed as 
+			3 6 1 5 4 2
+			4 2 3 1 5 6  
+		f) Everytime a character is enciphered, the switches position change but 
+			only after the character is enciphered.
+		g) The machine starts from a fixed setting of S, L, M, R. For example 
+			S=21, L=2, M=14, R=5, but as a character is enciphered the values
+			of switches change.
+		h) S steps with every character enciphered, while the L, M, R step with 
+			some logic, although only one of L, M, R moves at a time.
+			S=21, L=2, M=14, R=5 changes to
+			S=22, L=3, M=14, R=5 which then changes to
+			S=23, L=3, M=15, R=5 which then changes to
+			S=24, L=3, M=15, R=6.
+			The stepping logic is not the same as the machine's stepping logic.
+			
+	The flow of encryption is as follows:
+		1) P -> C1 | A character typed on keyboard is permuted using the plugboard. 
+		2) Depending on whether it is one of the sixes or twenties, it is permuted
+			as follows: 
+			i) C1 -> C1S = C2 | Sixes permute using the switch S only.
+		       ii) C1T -> C1L -> C1M -> C1R = C2 | Twenties permute using the L, M, R 
+				switches in order.
+		3) In either case, S moves one step while only one of L, M, R moves at a
+			time.
+		4) C2 -> C3 | The permuted character is now reverse permuted using the same plugboard
+			using in Step 1.
+		5) C3 is the final ciphertext character.
+		
+	Plugboard combination 
+		   Sixes      Twenties
+	Keyboard : NAGVPQ  OEFKUHCRYWSMIZJDXBLT
+	Plugboard: AEIOUY  BCDFGHJKLMNPQRSTVWXZ
+	
+	Ciphertext: XRRC EMKZ CJMD ETUN WBRK IVVH WIDX
+
+	See you later. Bye.
