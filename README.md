@@ -1,8 +1,7 @@
 # Cryptex_ISI_Kolkata
 Program binaries and puzzle files.
 Some instructions:
-  1. The nomenclature used is 
-      _<Level-2-digits><Random-2-digits><Prev_level_passVersion_used-1-digit><Current_level_Version-1-digit>
+  1. The nomenclature used is _<Level-2-digits><Random-2-digits><Prev_level_passVersion_used-1-digit><Current_level_Version-1-digit>
   2. The cipher11 is a binary file for which the code is in the file purple.c
   3. The solutions are in the PDF file named Level-Sets
   4. You can use the binaries straightaway as you use an a.out file, 
